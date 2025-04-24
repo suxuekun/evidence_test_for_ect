@@ -6,7 +6,7 @@ implement the feature in a total new way here
 
 // initial a new feature
 
-// basic logic for the new feature
+// modified basic logic for new feature
 
 // model design for new feature
 
