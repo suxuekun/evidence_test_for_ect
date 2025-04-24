@@ -8,6 +8,6 @@ implement the feature in a total new way here
 
 // modified basic logic for new feature
 
-// model design for new feature
+// add new field to new models
 
 // api for new feature 
