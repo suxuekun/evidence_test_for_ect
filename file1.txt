@@ -5,3 +5,5 @@ implement the feature in a total new way here
 // fix another bug
 
 // initial a new feature
+
+// basic logic for the new feature
